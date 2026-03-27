@@ -1,27 +1,103 @@
-# 💫 Tahir Ullah:
-🔭 I’m currently working on software debugging and software quality improvement.<br>👯 I’m open to collaborating on various Apache projects and other open-source software initiatives.<br>🤝 I’m looking for help with advanced debugging strategies, open-source contribution workflows, and large-scale software systems.<br>🌱 I’m currently learning modern software maintenance techniques and scalable software engineering practices.<br>💬 Ask me about software engineering, debugging, open-source collaboration, and software quality research.<br>⚡ Fun fact: I am passionate about solving challenging software problems through both research and practice.
+<h1 align="center">Hi 👋, I'm Engr. Tahir Ullah</h1>
+<h3 align="center">PhD in Software Engineering | Researcher | Software Debugging | Open-Source Enthusiast | Generative AI Explorer</h3>
 
+<p align="center">
+  I am passionate about software debugging, software quality, open-source development, and AI-powered software engineering.
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tahirullah7710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tahirullah7710/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahirullah77@outlook.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-## GitHub Stats / Technical Profile
+## 👨‍💻 About Me
 
-- 💻 Languages: Python, C, C++, ASP.NET
-- 🔍 Technical Interests: Software Debugging, Software Engineering, and Open-Source Development
-- 🤖 AI Focus: Generative AI, Prompt Engineering, leveraging Large Language Models (LLMs), and Agentic AI Systems
+- 🔭 I’m currently working on **software debugging and software quality improvement**
+- 👯 I’m open to collaborating on **various Apache projects and other open-source software initiatives**
+- 🤝 I’m looking for help with **advanced debugging strategies, open-source contribution workflows, and large-scale software systems**
+- 🌱 I’m currently learning **modern software maintenance techniques, Generative AI, Prompt Engineering, LLM-powered applications, and Agentic AI systems**
+- 💬 Ask me about **software engineering, debugging, open-source collaboration, software quality research, and AI for software engineering**
+- ⚡ Fun fact: **I am passionate about solving challenging software problems through both research and practice**
 
-## Technical Profile
+---
 
-- 💻 Skilled in Python, C, C++, and ASP.NET
-- 🔍 Interested in Software Debugging, Software Quality, and Open-Source Software Development
-- 🤖 Actively exploring Generative AI, Prompt Engineering, LLM-powered Systems, and Agentic AI
+## 🌐 Connect with Me
 
-## Technical Profile
+<p align="left">
+  <a href="mailto:tahirullah77@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tahirullah7710/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/tahirullah7710" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-- 💻 Skilled in Python, C, C++, and ASP.NET
-- 🔍 Focused on Software Debugging, Software Engineering, and Open-Source Development
-- 🤖 Exploring Generative AI, Prompt Engineering, LLM-powered Applications, and Agentic AI Systems
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### Core Interests
+<p>
+  <img src="https://img.shields.io/badge/Software_Debugging-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Quality-6A1B9A?style=for-the-badge" />
+</p>
+
+### AI Focus
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0F766E?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Dr.%20Tahir%20Ullah%27s%20GitHub%20Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🎯 Research & Professional Interests
+
+- Software Debugging and Fault Localization
+- Software Maintenance and Evolution
+- Open-Source Software Development
+- Software Quality Assurance
+- Generative AI for Software Engineering
+- Prompt Engineering and LLM-based Applications
+- Intelligent and Agentic AI Systems
+
+---
+
+## 🚀 Current Goals
+
+- Contribute actively to **Apache and open-source ecosystems**
+- Build **AI-assisted software engineering solutions**
+- Explore **LLM-based debugging and maintenance workflows**
+- Connect **academic research with real-world software practice**
+
+---
+
+## ✨ Motto
+
+> **Engineering intelligent solutions for reliable and scalable software systems.**
